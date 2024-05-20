@@ -12,10 +12,10 @@ A basic HTML, CSS, and JS challenge from Frontend Mentor. This is the solution t
 
 <h2> What have I learned </h2>
 
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
+<li> Further improved my grid skills </li>
+<li> Further improved my responsive design skills </li>
+<li> Used basic Javascript to create a hamburger menu for mobile </li>
+<li> Further utilized properties such as letter-spacing and line-height </li>
 
 <h2> How did I complete this project? </h2>
 
