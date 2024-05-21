@@ -15,7 +15,7 @@ A basic HTML, CSS, and JS challenge from Frontend Mentor. This is the solution t
 <li> Further improved my grid skills </li>
 <li> Further improved my responsive design skills </li>
 <li> Used basic Javascript to create a hamburger menu for mobile </li>
-<li> Further utilized properties such as letter-spacing and line-height </li>
+<li> Learned how to control what is displayed based on the web page width using Javascript </li>
 
 <h2> How did I complete this project? </h2>
 
