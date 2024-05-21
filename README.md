@@ -3,11 +3,11 @@ A basic HTML, CSS, and JS challenge from Frontend Mentor. This is the solution t
 
 <h2> Outcome </h2>
 
-<img src="https://i.imgur.com/0g4okUz.png" alt="The image of the solution to the challenge">
+<img src="https://i.imgur.com/XMuBVQA.png" alt="The image of the solution to the challenge">
 
 <h2> Links </h2>
 
-<li> Link to solution: https://www.frontendmentor.io/solutions/news-homepage-solution-HNA68sa0TB </li>
+<li> Link to solution:  </li>
 <li> Link to live demo: https://blaze4884.github.io/News-Homepage/ </li>
 
 <h2> What have I learned </h2>
