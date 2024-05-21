@@ -7,7 +7,7 @@ A basic HTML, CSS, and JS challenge from Frontend Mentor. This is the solution t
 
 <h2> Links </h2>
 
-<li> Link to solution:  </li>
+<li> Link to solution: https://www.frontendmentor.io/solutions/news-homepage-solution-HNA68sa0TB </li>
 <li> Link to live demo: https://blaze4884.github.io/News-Homepage/ </li>
 
 <h2> What have I learned </h2>
